@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3B59FF</color>
+    <color name="colorAccent">#37B7F1</color>
+    <color name="waitDialogcolor">#2196F3</color>
+    <color name="tvColor">#B79AEF</color>
+    <color name="colorWhite">#fff</color>
+</resources>
